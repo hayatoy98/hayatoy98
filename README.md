@@ -17,16 +17,5 @@ Hi, I'm **Hayato** — a software engineer specializing in **Go**, **Typescript*
 
 ---
 
-## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatoy98&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatoy98&layout=compact&theme=radical)
-
----
-
-## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hayatoy98&theme=github-compact)
-
----
-
 <!-- フッター（波打つグラデーション） -->
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:00ADD8&height=100&section=footer)
