@@ -1,8 +1,8 @@
 <!-- ヘッダー（波打つグラデーション） -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:FF9900&height=200&section=header&text=Hayato%20Taira&fontSize=50&fontAlignY=35&fontColor=ffffff)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:FF9900&height=200&section=header&text=Hayato&fontSize=50&fontAlignY=35&fontColor=ffffff)
 
 ## 👋 About Me
-Hi, I'm **Hayato Taira** — a software engineer specializing in **Go**, **Typescript**, **GCP**, **AWS**, and **k8s**.  
+Hi, I'm **Hayato** — a software engineer specializing in **Go**, **Typescript**, **GCP**, **AWS**, and **k8s**.  
 
 ---
 
@@ -18,13 +18,13 @@ Hi, I'm **Hayato Taira** — a software engineer specializing in **Go**, **Types
 ---
 
 ## 📊 GitHub Stats
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayato-taira&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayato-taira&layout=compact&theme=radical)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=hayatoy98&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hayatoy98&layout=compact&theme=radical)
 
 ---
 
 ## 📈 Activity Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hayato-taira&theme=github-compact)
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=hayatoy98&theme=github-compact)
 
 ---
 
