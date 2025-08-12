@@ -1,12 +1,24 @@
-<!-- ヘッダー（波打つグラデーション） -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:00ADD8,100:FF9900&height=200&section=header&text=Hayato&fontSize=50&fontAlignY=35&fontColor=ffffff)
+<!-- ASCIIロゴ（横長・シンプル） -->
+```
+██   ██  █████  ██    ██  █████  ████████  ██████  
+██   ██ ██   ██ ██    ██ ██   ██    ██    ██    ██ 
+███████ ███████ ██    ██ ███████    ██    ██    ██ 
+██   ██ ██   ██  ██  ██  ██   ██    ██    ██    ██ 
+██   ██ ██   ██   ████   ██   ██    ██     ██████  
+```
 
-## 👋 About Me
-Hi, I'm **Hayato** — a software engineer specializing in **Go**, **Typescript**, **GCP**, **AWS**, and **k8s**.  
+```bash
+$ whoami
+> Hayato — Software Engineer (Go / TypeScript / GCP / AWS / k8s)
+```
 
 ---
 
-## 🛠 Tech Stack
+## 💻 Tech Stack
+```bash
+$ tech-stack --list
+> Go, TypeScript, Terraform, GCP, AWS, Docker, Kubernetes
+```
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
 ![Terraform](https://img.shields.io/badge/Terraform-623CE4?style=for-the-badge&logo=terraform&logoColor=white)
@@ -17,5 +29,26 @@ Hi, I'm **Hayato** — a software engineer specializing in **Go**, **Typescript*
 
 ---
 
-<!-- フッター（波打つグラデーション） -->
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:FF9900,100:00ADD8&height=100&section=footer)
+## 🚀 Current Focus
+```bash
+$ work-status --today
+> Building distributed systems with Go
+> Scaling APIs & automation with Terraform + k8s
+> Interesting with micro service
+```
+
+---
+
+## 📫 Contact
+```bash
+$ ping hayato
+📧 hayato.y@netimp.co
+🐙 github.com/hayatoy98
+```
+
+---
+
+```bash
+$ exit
+> Session closed.
+```
